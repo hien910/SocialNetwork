@@ -1,0 +1,33 @@
+$color-text : #88888e;
+.wrapper{
+    &__img{
+        width: 10%;
+        &-imgUser{
+            border-radius: 50%;
+        }
+    }
+    &__addComment{
+        position: relative;
+        width: 90%;
+        & input {
+            width: 100%;
+            padding: 10px;
+            border-radius: 20px;
+            border: 1px solid var(--var-border);
+            color: white;
+            font-size: 1.3rem;
+        }
+        &-icon{
+            position: absolute;
+            top: 13px;
+            font-size: 1.7rem;
+            right: 15px;
+            color: $color-text;
+        }
+    }
+    &__isLoading{
+        position: absolute;
+        right: -5px;
+        top: 16px;
+    }
+}
