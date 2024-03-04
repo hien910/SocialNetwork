@@ -1,10 +1,5 @@
 # SOCIAL NETWORK
-## Team  Members:
-```bash
-Saigon University ,Faculty of Information Technology ,Major in Software Engineering
-ID          | Full Name
-3120410278    Nguyen Thanh Quynh Linh
-3120410316    Quan Van Manh
+
 ```
 ## Project Description:
 Build a social networking website with many basic functions
@@ -27,7 +22,6 @@ Build a social networking website with many basic functions
     * Basic Login/Register
     * View friends list, all posted photos
 ```
-## [Project Demo Link]([https://www.youtube.com/watch?v=20o8wvX0VQw](https://youtu.be/2TR-u_WX7tU?si=1MO8wxxKaDUzIFDO))
 ## Some features of the site:
 Home Page                   |                   Friend request
 :---------------------------------:        |      :------------------------------:
@@ -54,4 +48,4 @@ Notify                   |                   Message
 <img src="./SocialNetworkFE/src/assets/ScreenCapture/notify.png" height="200">  | <img src="./SocialNetworkFE/src/assets/ScreenCapture/message.png" height="200">
 
 ### Make sure to star the repository if you find it helpful!
-<a href="https://github.com/Quynh-Linh-IT/SocialNetwork/stargazers"><img src="https://img.shields.io/github/stars/Quynh-Linh-IT/SocialNetwork?color=yellow" alt="Stars Badge"/></a>
+<a href="https://github.com/hien910/SocialNetwork/stargazers"><img src="https://img.shields.io/github/stars/Quynh-Linh-IT/SocialNetwork?color=yellow" alt="Stars Badge"/></a>
