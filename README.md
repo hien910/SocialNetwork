@@ -47,5 +47,4 @@ Notify                   |                   Message
 :---------------------------------:        |      :------------------------------:
 <img src="./SocialNetworkFE/src/assets/ScreenCapture/notify.png" height="200">  | <img src="./SocialNetworkFE/src/assets/ScreenCapture/message.png" height="200">
 
-### Make sure to star the repository if you find it helpful!
-<a href="https://github.com/hien910/SocialNetwork/stargazers"><img src="https://img.shields.io/github/stars/Quynh-Linh-IT/SocialNetwork?color=yellow" alt="Stars Badge"/></a>
+
