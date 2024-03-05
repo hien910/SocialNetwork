@@ -1,6 +1,9 @@
 # SOCIAL NETWORK
+<<<<<<< HEAD
 ## Team  Members:
 ```bash
+=======
+>>>>>>> 4425343211e0e780d0cc9a112a7221d4b2bceb5a
 
 ```
 ## Project Description:
@@ -24,7 +27,6 @@ Build a social networking website with many basic functions
     * Basic Login/Register
     * View friends list, all posted photos
 ```
-## [Project Demo Link]([https://www.youtube.com/watch?v=20o8wvX0VQw](https://youtu.be/2TR-u_WX7tU?si=1MO8wxxKaDUzIFDO))
 ## Some features of the site:
 Home Page                   |                   Friend request
 :---------------------------------:        |      :------------------------------:
@@ -50,5 +52,4 @@ Notify                   |                   Message
 :---------------------------------:        |      :------------------------------:
 <img src="./SocialNetworkFE/src/assets/ScreenCapture/notify.png" height="200">  | <img src="./SocialNetworkFE/src/assets/ScreenCapture/message.png" height="200">
 
-### Make sure to star the repository if you find it helpful!
-<a href="https://github.com/Quynh-Linh-IT/SocialNetwork/stargazers"><img src="https://img.shields.io/github/stars/Quynh-Linh-IT/SocialNetwork?color=yellow" alt="Stars Badge"/></a>
+
