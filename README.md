@@ -1,10 +1,7 @@
 # SOCIAL NETWORK
 ## Team  Members:
 ```bash
-Saigon University ,Faculty of Information Technology ,Major in Software Engineering
-ID          | Full Name
-3120410278    Nguyen Thanh Quynh Linh
-3120410316    Quan Van Manh
+
 ```
 ## Project Description:
 Build a social networking website with many basic functions

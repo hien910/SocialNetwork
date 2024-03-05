@@ -8,7 +8,7 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "com.socialnetwork.SocialNetWork")
+//@ComponentScan(basePackages = "com.socialnetwork.SocialNetWork")
 public class SocialNetWorkApplication {
 
 	public static void main(String[] args) {
