@@ -1,11 +1,5 @@
 # SOCIAL NETWORK
-<<<<<<< HEAD
-## Team  Members:
-```bash
-=======
->>>>>>> 4425343211e0e780d0cc9a112a7221d4b2bceb5a
 
-```
 ## Project Description:
 Build a social networking website with many basic functions
 ## Tech Stack Used:
